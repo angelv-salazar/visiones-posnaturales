@@ -1,2 +1,2 @@
 # Escenarios-Posnaturales
-Generación de imágenes utilizando StyleGan-2ADA
+Implementación de redes neuronales StyleGan2-ADA en protocolos de diseño especulativo
